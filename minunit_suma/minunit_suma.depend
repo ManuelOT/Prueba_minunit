@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1564783909 source:c:\users\manuel ortiz\desktop\proyecto_manuel\suma\suma.c
+	"suma.h"
+
+1564783910 c:\users\manuel ortiz\desktop\proyecto_manuel\suma\suma.h
+
+1564784903 source:c:\users\manuel ortiz\desktop\proyecto_manuel\minunit_suma\main.c
+	<stdio.h>
+	<stdlib.h>
+
