@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1564812866 source:c:\users\enrique\desktop\irving's files\c++ programs\c\letsgo\main.c
+	"minunit.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555425195 c:\users\enrique\desktop\irving's files\c++ programs\c\letsgo\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
+1564817133 source:c:\users\manuel ortiz\downloads\letsgo\main.c
+	"minunit.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555428795 c:\users\manuel ortiz\downloads\letsgo\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
